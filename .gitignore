@@ -1,0 +1,27 @@
+# Compiled programs
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build logs
+*.log
+
+# Temporary files
+*.tmp
+*_temp.dat
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Development test logs
+full_test.txt
+persistence_test.txt
+qa_results.txt
+test_run.txt

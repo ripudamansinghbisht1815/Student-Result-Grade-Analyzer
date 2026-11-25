@@ -1,0 +1,25 @@
+STUDENT ACADEMIC PERFORMANCE REPORT
+===================================
+Student ID: STU1001
+Roll: 24CSE001
+Name: Aman Sharma
+Branch: CSE
+Semester: 1
+
+SUBJECT PERFORMANCE
+MAT101     Engineering Mathematics    78.00/100.00  78.00% B+
+PHY101     Engineering Physics        67.00/100.00  67.00% B
+CSE101     Programming in C           91.00/100.00  91.00% A+
+ENG101     Communication Skills       74.00/100.00  74.00% B+
+ECE101     Basic Electronics          61.00/100.00  61.00% B
+
+OVERALL
+Total: 371.00/500.00
+Percentage: 74.20%
+Grade: B+
+Status: PASS
+Rank: 6/10
+Weak subjects: 0
+
+PERFORMANCE SUMMARY
+The student achieved 74.20% and satisfied the recorded subject-level passing requirements. 0 subject(s) require attention under current criteria.

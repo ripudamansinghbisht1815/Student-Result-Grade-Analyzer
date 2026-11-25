@@ -1,0 +1,42 @@
+Student Result & Grade Analyzer
+Username: Password: 
+ACADEMIC DASHBOARD
+Students: 10
+Subjects: 5
+Results: 10
+Weak threshold: 50.00%
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: 
+ACADEMIC DASHBOARD
+Students: 10
+Subjects: 5
+Results: 10
+Weak threshold: 50.00%
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: Logged out.

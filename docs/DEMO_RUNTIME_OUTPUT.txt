@@ -1,0 +1,109 @@
+Student Result & Grade Analyzer
+Username: Password: 
+ACADEMIC DASHBOARD
+Students: 10
+Subjects: 5
+Results: 10
+Weak threshold: 50.00%
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: Semester: RANK  ID        NAME                         %      STATUS
+1     STU1005   Meera Joshi                   93.80 PASS
+2     STU1002   Riya Verma                    86.00 PASS
+2     STU1003   Arjun Singh                   86.00 PASS
+4     STU1008   Priya Singh                   81.40 PASS
+5     STU1006   Neha Rawat                    74.40 PASS
+6     STU1001   Aman Sharma                   74.20 PASS
+7     STU1010   Kavya Sharma                  72.40 PASS
+8     STU1004   Karan Gupta                   63.00 PASS
+9     STU1009   Aditya Jain                   54.80 PASS
+10    STU1007   Rahul Kumar                   46.00 FAIL
+
+TOP FIVE RECORDS
+1. Meera Joshi - 93.80% (Rank 1)
+2. Riya Verma - 86.00% (Rank 2)
+3. Arjun Singh - 86.00% (Rank 2)
+4. Priya Singh - 81.40% (Rank 4)
+5. Neha Rawat - 74.40% (Rank 5)
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: Semester: Students: 10 | Average: 73.20% | Highest: 93.80% | Lowest: 46.00% | Pass: 90.00% | Fail: 10.00%
+
+SUBJECT ANALYTICS
+Engineering Mathematics   avg 71.10% | pass 9 | fail 1 | records 10
+Engineering Physics       avg 70.00% | pass 10 | fail 0 | records 10
+Programming in C          avg 82.20% | pass 10 | fail 0 | records 10
+Communication Skills      avg 75.90% | pass 10 | fail 0 | records 10
+Basic Electronics         avg 66.80% | pass 9 | fail 1 | records 10
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: Student ID: Semester: Weak threshold: 50.00%
+1. Engineering Mathematics: 31.00% | HIGH | below pass requirement
+2. Basic Electronics: 38.00% | HIGH | below pass requirement
+3. Engineering Physics: 44.00% | MODERATE | below improvement threshold
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: Student ID: Semester: Report saved: reports/STU1001_Semester_1.txt
+
+=== STUDENT RESULT & GRADE ANALYZER ===
+1 Students
+2 Subjects
+3 Marks
+4 Calculate Result
+5 Weak Analysis
+6 Ranking
+7 Analytics
+8 Semester Comparison
+9 Generate Report
+10 Dashboard
+11 Settings
+12 Logout
+Choice: Logged out.
